@@ -3,7 +3,7 @@ import SearchBar from './components/SearchBar';
 
 function App() {
   return (
-    <div>
+    <div className="ui container margin">
       <SearchBar />
     </div>
   )
